@@ -1,9 +1,15 @@
-## 🌐 Socials:
+<img width="2000" height="750" alt="image" src="https://raw.githubusercontent.com/RazmikMovsisyan/RazmikMovsisyan/e4c89ed5abbb74cbf2d4cceaaa178acc224632ed/assets/full-stack-developer.png" /><div align="center">
+
+# Hello, I'm Razmik! 🤓
+**Full-Stack Developer & Creative Problem Solver**
+
+🎯 *Turning ideas into digital reality*
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/RazmikMovsisyan) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:razmikmovsisyan@icloud.com)
 
-##
+</div>
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ### 🌐 Frontend
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -49,8 +55,4 @@
 ### 📖 Markup
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown)
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=RazmikMovsisyan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=RazmikMovsisyan&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RazmikMovsisyan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
