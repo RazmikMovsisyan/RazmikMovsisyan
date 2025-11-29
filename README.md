@@ -73,14 +73,14 @@ Navigate through my Projects 👇
 
 > Here you’ll find projects I built even before formally studying full stack software development, reflecting my early passion and drive.
 
-### [![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](#-) ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+### [![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](#--1) ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 
 [![Heubel GmbH](https://img.shields.io/badge/Live:_Heubel_GmbH-000000?style=for-the-badge&logoColor=white)](https://www.heubel-sattlerei.de)
 
 | ![1heubel](assets/heubel/1heubel.png) | ![2heubel](assets/heubel/2heubel.png) | ![3heubel](assets/heubel/3heubel.png) |
 | :-----------------------------------: | :-----------------------------------: | :-----------------------------------: |
 
-### [![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](#wordpress-woocommerce) ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+### [![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](#--2) ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
 
 [![CargoCover](https://img.shields.io/badge/Live:_CargoCover-000000?style=for-the-badge&logoColor=white)](https://www.cargocover.de)
 
