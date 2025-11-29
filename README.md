@@ -2,11 +2,11 @@
 
 Navigate through my Projects 👇
 
-[![HTML/CSS](https://img.shields.io/badge/HTML/CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#htmlcss)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#javascript)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#django-python-bootstrap)
-[![DRF+React](https://img.shields.io/badge/DRF_/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#drfreact)
-[![Wordpress](https://img.shields.io/badge/Wordpress_&_more-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](#wordpress-shopify)
+[![HTML/CSS](https://img.shields.io/badge/HTML/CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#-)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#-1)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#--)
+[![DRF+React](https://img.shields.io/badge/DRF_/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#-2)
+[![Wordpress](https://img.shields.io/badge/Wordpress_&_more-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](#--1)
 
 ---
 
@@ -25,10 +25,9 @@ Navigate through my Projects 👇
 
 ---
 
-### [![HTML/CSS](https://img.shields.io/badge/HTML/CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#htmlcss)
+### [![HTML/CSS](https://img.shields.io/badge/HTML/CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 
-[![Repository](https://img.shields.io/badge/Github_Repository-000000?style=for-the-badge&logoColor=white)](https://github.com/RazmikMovsisyan/light_trails)
-[![Light Trails](https://img.shields.io/badge/Live:_Light_Trails-000000?style=for-the-badge&logoColor=white)](https://razmikmovsisyan.github.io/light_trails)
+### [![Repository](https://img.shields.io/badge/Github_Repository-000000?style=for-the-badge&logoColor=white)](https://github.com/RazmikMovsisyan/light_trails) [![Light Trails](https://img.shields.io/badge/Live:_Light_Trails-000000?style=for-the-badge&logoColor=white)](https://razmikmovsisyan.github.io/light_trails)
 
 | ![homepage-mobile-version](https://raw.githubusercontent.com/RazmikMovsisyan/light_trails/main/assets/readme/mobile/mobile-version-main-photos-column1.png) | ![gallery-mobile-version](https://raw.githubusercontent.com/RazmikMovsisyan/light_trails/main/assets/readme/mobile/mobile-version-main-photos-column2.png) | ![contact-mobile-version](https://raw.githubusercontent.com/RazmikMovsisyan/light_trails/main/assets/readme/mobile/mobile-version-main-photos-column3.png) |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -36,7 +35,7 @@ Navigate through my Projects 👇
 | ![homepage-mobile-version](https://raw.githubusercontent.com/RazmikMovsisyan/light_trails/main/assets/readme/mobile/mobile-contact-page1.png) | ![gallery-mobile-version](https://raw.githubusercontent.com/RazmikMovsisyan/light_trails/main/assets/readme/mobile/mobile-contact-page2.png) | ![contact-mobile-version](https://raw.githubusercontent.com/RazmikMovsisyan/light_trails/main/assets/readme/mobile/mobile-contact-page3.png) |
 | :-------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: |
 
-### [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#javascript)
+### [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#-1)
 
 [![Repository](https://img.shields.io/badge/Github_Repository-000000?style=for-the-badge&logoColor=white)](https://github.com/RazmikMovsisyan/typing-game)
 [![Typing Game](https://img.shields.io/badge/Live:_Typing_Game-000000?style=for-the-badge&logoColor=white)](https://razmikmovsisyan.github.io/typing-game/)
@@ -46,7 +45,7 @@ Navigate through my Projects 👇
 | ![game-over-score](https://raw.githubusercontent.com/RazmikMovsisyan/typing-game/main/assets/readme/images/game-over-score.png) | ![correct-false](https://raw.githubusercontent.com/RazmikMovsisyan/typing-game/main/assets/readme/images/correct-false.png) |
 | :-----------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: |
 
-### [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#django-python-bootstrap) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+### [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#--) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 [![Microblogify](https://img.shields.io/badge/Live:_Microblogify-000000?style=for-the-badge&logoColor=white)](https://microblogify-f169ead0df1f.herokuapp.com/)
 [![Repository](https://img.shields.io/badge/Github_Repository-000000?style=for-the-badge&logoColor=white)](https://github.com/RazmikMovsisyan/microblogify)
@@ -60,7 +59,7 @@ Navigate through my Projects 👇
 
 ---
 
-### [![DRF+React](https://img.shields.io/badge/Django_Rest_Framework_/_React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#drfreact)
+### [![DRF+React](https://img.shields.io/badge/Django_Rest_Framework_/_React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#-2)
 
 [![LoopIn](https://img.shields.io/badge/Live:_LoopIn-000000?style=for-the-badge&logoColor=white)](https://loopinapp-d364a1b22906.herokuapp.com)
 [![Repository](https://img.shields.io/badge/Github_Repository:_APP-000000?style=for-the-badge&logoColor=white)](https://github.com/RazmikMovsisyan/loopin)
@@ -74,7 +73,7 @@ Navigate through my Projects 👇
 
 > Here you’ll find projects I built even before formally studying full stack software development, reflecting my early passion and drive.
 
-### [![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](#wordpress-shopify) ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+### [![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](#-) ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 
 [![Heubel GmbH](https://img.shields.io/badge/Live:_Heubel_GmbH-000000?style=for-the-badge&logoColor=white)](https://www.heubel-sattlerei.de)
 
