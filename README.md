@@ -25,7 +25,7 @@ Navigate through my Projects 👇
 
 ---
 
-### [![HTML/CSS](https://img.shields.io/badge/HTML/CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+### [![HTML/CSS](https://img.shields.io/badge/HTML/CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#-)
 
 ### [![Repository](https://img.shields.io/badge/Github_Repository-000000?style=for-the-badge&logoColor=white)](https://github.com/RazmikMovsisyan/light_trails) [![Light Trails](https://img.shields.io/badge/Live:_Light_Trails-000000?style=for-the-badge&logoColor=white)](https://razmikmovsisyan.github.io/light_trails)
 
