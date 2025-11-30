@@ -45,7 +45,7 @@ Navigate through my Projects 👇
 | ![game-over-score](https://raw.githubusercontent.com/RazmikMovsisyan/typing-game/main/assets/readme/images/game-over-score.png) | ![correct-false](https://raw.githubusercontent.com/RazmikMovsisyan/typing-game/main/assets/readme/images/correct-false.png) |
 | :-----------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: |
 
-### [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#--) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]() [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+### [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#--) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#--) [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](#--)
 
 [![Microblogify](https://img.shields.io/badge/Live:_Microblogify-000000?style=for-the-badge&logoColor=white)](https://microblogify-f169ead0df1f.herokuapp.com/)
 [![Repository](https://img.shields.io/badge/Github_Repository-000000?style=for-the-badge&logoColor=white)](https://github.com/RazmikMovsisyan/microblogify)
