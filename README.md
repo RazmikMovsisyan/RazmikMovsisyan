@@ -81,8 +81,6 @@ Navigate through my Projects 👇
 | :-----------------------------------: | :-----------------------------------: | :-----------------------------------: |
 | ![6loopin](assets/loopin/6loopin.png) | ![4loopin](assets/loopin/4loopin.png) | ![5loopin](assets/loopin/5loopin.png) |
 
----
-
 [⬆ Back to Top](#)
 
 ---
