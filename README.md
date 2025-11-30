@@ -65,8 +65,6 @@ Navigate through my Projects 👇
 | :-------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------: |
 |        ![profile one](https://raw.githubusercontent.com/RazmikMovsisyan/microblogify/main/assets/images/profile.png)        |                   ![profile two](https://raw.githubusercontent.com/RazmikMovsisyan/microblogify/main/assets/images/profile.png)                   |
 
----
-
 [⬆ Back to Top](#)
 
 ---
