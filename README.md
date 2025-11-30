@@ -35,6 +35,10 @@ Navigate through my Projects 👇
 | ![homepage-mobile-version](https://raw.githubusercontent.com/RazmikMovsisyan/light_trails/main/assets/readme/mobile/mobile-contact-page1.png) | ![gallery-mobile-version](https://raw.githubusercontent.com/RazmikMovsisyan/light_trails/main/assets/readme/mobile/mobile-contact-page2.png) | ![contact-mobile-version](https://raw.githubusercontent.com/RazmikMovsisyan/light_trails/main/assets/readme/mobile/mobile-contact-page3.png) |
 | :-------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: |
 
+[⬆ Back to Top](#)
+
+---
+
 ### [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#-1)
 
 [![Repository](https://img.shields.io/badge/Github_Repository-000000?style=for-the-badge&logoColor=white)](https://github.com/RazmikMovsisyan/typing-game)
