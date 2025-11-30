@@ -45,6 +45,8 @@ Navigate through my Projects 👇
 | ![game-over-score](https://raw.githubusercontent.com/RazmikMovsisyan/typing-game/main/assets/readme/images/game-over-score.png) | ![correct-false](https://raw.githubusercontent.com/RazmikMovsisyan/typing-game/main/assets/readme/images/correct-false.png) |
 | :-----------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: |
 
+[⬆ Back to Top](#)
+
 ### [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#--) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#--) [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](#--)
 
 [![Microblogify](https://img.shields.io/badge/Live:_Microblogify-000000?style=for-the-badge&logoColor=white)](https://microblogify-f169ead0df1f.herokuapp.com/)
@@ -59,6 +61,8 @@ Navigate through my Projects 👇
 
 ---
 
+[⬆ Back to Top](#)
+
 ### [![DRF+React](https://img.shields.io/badge/Django_Rest_Framework_/_React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#-2)
 
 [![LoopIn](https://img.shields.io/badge/Live:_LoopIn-000000?style=for-the-badge&logoColor=white)](https://loopinapp-d364a1b22906.herokuapp.com)
@@ -70,6 +74,8 @@ Navigate through my Projects 👇
 | ![6loopin](assets/loopin/6loopin.png) | ![4loopin](assets/loopin/4loopin.png) | ![5loopin](assets/loopin/5loopin.png) |
 
 ---
+
+[⬆ Back to Top](#)
 
 > Here you’ll find projects I built even before formally studying full stack software development, reflecting my early passion and drive.
 
