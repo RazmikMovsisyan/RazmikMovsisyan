@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=0A66C2&center=true&vCenter=true&width=1000&duration=5000&pause=3000&lines=Visit+www.RazmikMovsisyan.com;Contact+me+at+info@razmikmovsisyan.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=0A66C2&center=true&vCenter=true&width=1000&duration=5000&pause=3000&lines=Visit+www.RazmikMovsisyan.com;Contact+me+at+info@razmikmovsisyan.com)](https://www.RazmikMovsisyan.com)
 
 [![Website](https://img.shields.io/badge/Website-www.RazmikMovsisyan.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.RazmikMovsisyan.com)
 [![Email](https://img.shields.io/badge/Email-info@razmikmovsisyan.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@razmikmovsisyan.com)
